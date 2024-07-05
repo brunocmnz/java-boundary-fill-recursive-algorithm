@@ -1,6 +1,6 @@
 # java-boundary-fill-recursive-algorithm
 
-## O algoritmo Boundary Fill é um método utilizado em computação gráfica para preencher regiões delimitadas por uma cor de borda específica. Ele é frequentemente empregado em programas de desenho e editores de imagem para preencher áreas com uma cor sólida, garantindo que a cor de preenchimento não ultrapasse os limites estabelecidos pela cor de borda.
+O algoritmo Boundary Fill é um método utilizado em computação gráfica para preencher regiões delimitadas por uma cor de borda específica. Ele é frequentemente empregado em programas de desenho e editores de imagem para preencher áreas com uma cor sólida, garantindo que a cor de preenchimento não ultrapasse os limites estabelecidos pela cor de borda.
 
 ## Funcionamento do Algoritmo Boundary Fill
 O algoritmo Boundary Fill pode ser implementado de duas formas principais: recursiva e iterativa. A versão recursiva é a mais comum e intuitiva. 
