@@ -17,7 +17,7 @@ O algoritmo Boundary Fill recursivo implementado neste projeto funciona da segui
 
 5. Repetição do Processo: Para cada ponto adjacente, o algoritmo repete os passos 2 a 4, verificando e preenchendo até que todos os pontos dentro da área delimitada pela cor inicial sejam preenchidos.
 
-O processo continua até que não haja mais pontos a serem preenchidos dentro dos limites definidos pela cor de borda.
+O processo continua até que não haja mais pontos a serem preenchidos dentro dos limites definidos pela cor inicial.
 
 ## Considerações
 Recursão: A implementação recursiva é simples e fácil de entender, mas pode levar a problemas de estouro de pilha se a área a ser preenchida for muito grande. Nesses casos, uma abordagem iterativa utilizando uma pilha explícita pode ser mais segura.
