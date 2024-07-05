@@ -15,7 +15,7 @@ O algoritmo Boundary Fill recursivo implementado neste projeto funciona da segui
 
 4. Chamada Recursiva: Chama a si mesmo recursivamente para os quatro pontos adjacentes (esquerda, direita, acima e abaixo) do ponto atual.
 
-5. Repetição do Processo: Para cada ponto adjacente, o algoritmo repete os passos 2 a 4, verificando e preenchendo até que todos os pontos dentro da área delimitada pela borda sejam preenchidos.
+5. Repetição do Processo: Para cada ponto adjacente, o algoritmo repete os passos 2 a 4, verificando e preenchendo até que todos os pontos dentro da área delimitada pela cor inicial sejam preenchidos.
 
 O processo continua até que não haja mais pontos a serem preenchidos dentro dos limites definidos pela cor de borda.
 
