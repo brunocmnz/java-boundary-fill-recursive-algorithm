@@ -21,7 +21,7 @@ O processo continua até que não haja mais pontos a serem preenchidos dentro do
 
 ## Considerações
 - Recursão: A implementação recursiva é simples e fácil de entender, mas pode levar a problemas de estouro de pilha se a área a ser preenchida for muito grande. Nesses casos, uma abordagem iterativa utilizando uma pilha explícita pode ser mais segura.
-- 
+
 - Eficiência: Boundary Fill pode ser menos eficiente em comparação com outros algoritmos de preenchimento, como o Flood Fill, especialmente em áreas grandes e complexas.
 
 O algoritmo Boundary Fill é uma técnica fundamental em computação gráfica e ilustra conceitos importantes de recursão e processamento de imagem.
