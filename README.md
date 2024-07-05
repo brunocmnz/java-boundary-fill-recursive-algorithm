@@ -9,9 +9,9 @@ O algoritmo Boundary Fill recursivo implementado neste projeto funciona da segui
 
 1. Ponto Inicial: Começa a partir de um ponto dentro da área a ser preenchida.
 
-2. Verificação de Cor: Verifica a cor do ponto atual. Se a cor não for a mesma do ponto inicial, prossegue para o próximo passo.
+2. Verificação de Cor: Verifica se a a cor do ponto atual é a mesma do ponto inicial.
 
-3. Preenchimento: Pinta o ponto atual com a cor de preenchimento.
+3. Preenchimento: Pinta o ponto atual com a cor de preenchimento, caso  o passo 2 tenha obtido uma resposta verdadeira (true).
 
 4. Chamada Recursiva: Chama a si mesmo recursivamente para os quatro pontos adjacentes (esquerda, direita, acima e abaixo) do ponto atual.
 
