@@ -1,3 +1,6 @@
 # java-boundary-fill-recursive-algorithm
 
-<img src="/animation/boundary-fill-animation.gif">
+
+<div align="center">
+  <img width="50%" src="/animation/boundary-fill-animation.gif">
+</div>
