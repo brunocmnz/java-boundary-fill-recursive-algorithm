@@ -26,9 +26,9 @@ O processo continua até que não haja mais pontos a serem preenchidos dentro do
 
 O algoritmo Boundary Fill é uma técnica fundamental em computação gráfica e ilustra conceitos importantes de recursão e processamento de imagem.
 
+## Animação da execução do algoritmo - Demonstração visual feita no Java
 <div align="center">
   <img width="50%" src="/animation/boundary-fill-animation.gif">
 </div>
 
 
-## Animação da execução do algoritmo - Demonstração visual feita no Java
