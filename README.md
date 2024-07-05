@@ -5,11 +5,11 @@ O algoritmo Boundary Fill é um método utilizado em computação gráfica para 
 ## Funcionamento do Algoritmo Boundary Fill
 O algoritmo Boundary Fill pode ser implementado de duas formas principais: recursiva e iterativa. A versão recursiva é a mais comum e intuitiva. 
 
-O algoritmo Boundary Fill recursivo funciona da seguinte maneira:
+O algoritmo Boundary Fill recursivo implementado neste projeto funciona da seguinte maneira:
 
 1. Ponto Inicial: Começa a partir de um ponto dentro da área a ser preenchida.
 
-2. Verificação de Cor: Verifica a cor do ponto atual. Se a cor não for a cor da borda e não for a cor de preenchimento, prossegue para o próximo passo.
+2. Verificação de Cor: Verifica a cor do ponto atual. Se a cor não for a cor da área a ser pintada, prossegue para o próximo passo.
 
 3. Preenchimento: Pinta o ponto atual com a cor de preenchimento.
 
